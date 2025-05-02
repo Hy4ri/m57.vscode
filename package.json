@@ -1,0 +1,40 @@
+{
+  "name": "M.5.7",
+  "displayName": "M.5.7",
+  "description": "dark theme",
+  "version": "1.0.0",
+  "publisher": "hy4ri",
+  "license": "MIT",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/hy4ri/black-iris-vscode.git"
+  },
+  "bugs": {
+		"url": "https://github.com/hy4ri/black-iris-vscode/issues"
+  },
+  "engines": {
+    "vscode": "^1.13.0"
+  },
+  "keywords": [
+		"black",
+		"iris",
+		"black iris",
+		"dark",
+		"theme",
+		"color-theme",
+		"pastel"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "M.5.7",
+        "uiTheme": "vs-dark",
+        "path": "./themes/M57.json"
+      }
+    ]
+  }
+}
