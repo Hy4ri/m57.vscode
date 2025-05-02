@@ -1,13 +1,13 @@
 {
-  "name": "M.5.7",
+  "name": "M-5-7",
   "displayName": "M.5.7",
   "description": "dark theme",
   "version": "1.0.0",
-  "publisher": "hy4ri",
+  "publisher": "M57",
   "license": "MIT",
   "repository": {
 		"type": "git",
-		"url": "https://github.com/Hy4ri/M.5.7-vscode-theme.git"
+		"url": "https://github.com/Hy4ri/M.5.7-vscode-theme"
   },
   "bugs": {
 		"url": "https://github.com/Hy4ri/M.5.7-vscode-theme/issues"
