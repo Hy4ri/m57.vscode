@@ -2,27 +2,27 @@
   "name": "M-5-7",
   "displayName": "M.5.7",
   "description": "dark theme",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "publisher": "M57",
   "license": "MIT",
   "repository": {
-		"type": "git",
-		"url": "https://github.com/Hy4ri/M.5.7-vscode-theme"
+    "type": "git",
+    "url": "https://github.com/Hy4ri/M.5.7-vscode-theme"
   },
   "bugs": {
-		"url": "https://github.com/Hy4ri/M.5.7-vscode-theme/issues"
+    "url": "https://github.com/Hy4ri/M.5.7-vscode-theme/issues"
   },
   "engines": {
     "vscode": "^1.13.0"
   },
   "keywords": [
-		"black",
-		"iris",
-		"black iris",
-		"dark",
-		"theme",
-		"color-theme",
-		"pastel"
+    "black",
+    "iris",
+    "black iris",
+    "dark",
+    "theme",
+    "color-theme",
+    "pastel"
   ],
   "categories": [
     "Themes"
